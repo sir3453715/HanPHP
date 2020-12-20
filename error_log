@@ -1,0 +1,331 @@
+[26-Oct-2020 11:17:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 19:17:03 Asia/Taipei] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'han_new'@'localhost' (using password: YES) in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:15
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php(15): PDO->__construct('mysql:host=loca...', 'han_new', '2G36tHV2MAwlmcl...', Array)
+#1 /home/tuzriw69uyqk/public_html/hanphp/public_include.php(18): Database->__construct()
+#2 /home/tuzriw69uyqk/public_html/hanphp/index.php(2): require('/home/tuzriw69u...')
+#3 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 15
+[26-Oct-2020 11:30:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:31:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:20 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:36 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:37 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:37:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 19:44:23 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::select(), 2 passed in /home/tuzriw69uyqk/public_html/hanphp/babycakes.php on line 5 and at least 4 expected in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:44
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/babycakes.php(5): Database->select('list_class_deta...', Array)
+#1 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 44
+[26-Oct-2020 11:44:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 11:44:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 19:44:32 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::select(), 2 passed in /home/tuzriw69uyqk/public_html/hanphp/news.php on line 30 and at least 4 expected in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:44
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/news.php(30): Database->select('news_class', Array)
+#1 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 44
+[26-Oct-2020 11:44:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[26-Oct-2020 12:12:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 23:13:38 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::select(), 2 passed in /home/tuzriw69uyqk/public_html/hanphp/news.php on line 30 and at least 4 expected in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:44
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/news.php(30): Database->select('news_class', Array)
+#1 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 44
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 23:13:43 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::select(), 2 passed in /home/tuzriw69uyqk/public_html/hanphp/news.php on line 30 and at least 4 expected in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:44
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/news.php(30): Database->select('news_class', Array)
+#1 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 44
+[03-Nov-2020 15:13:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:13:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[03-Nov-2020 15:14:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 13:39:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[05-Nov-2020 14:09:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[14-Nov-2020 10:14:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[16-Nov-2020 09:15:21 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 08:49:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 09:45:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 09:59:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 09:59:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 09:59:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 09:59:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 09:59:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:01:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:01:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:01:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:01:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:01:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:03:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:05:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:05:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:05:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:05:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:07:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:07:28 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[23-Nov-2020 10:09:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[24-Nov-2020 09:58:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:45:31 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:46:05 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 19:47:39 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::select(), 2 passed in /home/tuzriw69uyqk/public_html/hanphp/news.php on line 30 and at least 4 expected in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:44
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/news.php(30): Database->select('news_class', Array)
+#1 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 44
+[30-Nov-2020 11:47:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 19:47:46 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Database::select(), 2 passed in /home/tuzriw69uyqk/public_html/hanphp/babycakes.php on line 5 and at least 4 expected in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php:44
+Stack trace:
+#0 /home/tuzriw69uyqk/public_html/hanphp/babycakes.php(5): Database->select('list_class_deta...', Array)
+#1 {main}
+  thrown in /home/tuzriw69uyqk/public_html/hanphp/libs/Database.php on line 44
+[30-Nov-2020 11:47:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[30-Nov-2020 11:47:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:28 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:35 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:35 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[17-Dec-2020 06:37:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14
+[19-Dec-2020 23:25:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/tuzriw69uyqk/public_html/hanphp/public_include.php on line 14

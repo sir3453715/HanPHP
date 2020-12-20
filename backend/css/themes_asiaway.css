@@ -1,0 +1,49 @@
+#c-navbar01.navbar {
+  border-top: 3px solid red;
+  background-color: #fff;
+}
+#c-navbar01.navbar .navbar-brand {
+  color: #ccc;
+  background-color: #333;
+}
+aside.sidebar {
+  background-color: #242424;
+}
+#c-aside > li {
+  border-bottom: 1px solid #333;
+}
+#c-aside > li > ul {
+  background-color: #444;
+  /*
+  margin-left: 0px;
+  padding-left: 20px;
+  */
+  text-indent : 20px ;
+}
+#c-aside > li > ul > li > a:hover {
+  background-color: #373737;
+}
+#c-aside > li > ul > ul {
+  background-color: #2b2b2b;
+}
+#c-aside > li > ul > ul > li > a:hover {
+  background-color: #1e1e1e;
+}
+#c-aside a {
+  color: #ccc;
+}
+#c-aside a:hover {
+  background-color: #000000;
+}
+#c-aside a:focus {
+  background-color: #000000;
+}
+#c-topbar01 {
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: transparent;
+}
+#c-topbar01 h1 {
+  font-size: 25px;
+}

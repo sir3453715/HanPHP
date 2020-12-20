@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* Basic */
+body { font-family: "微軟正黑體"; font-size: 13px; }
+
+form { margin: 0px; }
+
+body { margin: 0; padding: 0; padding-color: #000; padding-font-size: 12px; padding-font-weight: normal; padding-font-display: swap; }
+
+h1, h2 { font-weight: normal; margin: 0; line-height: 1em; }
+
+img { max-width: 100%; height: auto; border: 0px; display: inline-block; }
+
+a { color: black; text-decoration: none; font-size: 12px; }
+
+table { width: 100%; max-width: 1024px; margin: 0 auto; font-size: 12px; color: #000; }
+
+/* tools */
+.text-left { text-align: left; }
+
+.text-right { text-align: right; }
+
+.text-center { text-align: center; }
+
+.vat { vertical-align: top !important; }
+
+.vam { vertical-align: middle !important; }
+
+.fwb { font-weight: bold; }
+
+.mb15 { margin-bottom: 15px; }
+
+.inline-block { display: inline-block; }
+
+.list-unstyled { list-style: none; margin: 0; padding: 0; }
+
+.fz12 { font-size: 12px !important; }
+
+.fz13 { font-size: 13px !important; }
+
+.fz14 { font-size: 14px !important; }
+
+.fz15 { font-size: 15px !important; }
+
+.fz16 { font-size: 16px !important; }
+
+.fz17 { font-size: 17px !important; }
+
+.fz18 { font-size: 18px !important; }
+
+.fz19 { font-size: 19px !important; }
+
+.fz20 { font-size: 20px !important; }
+
+.fz30 { font-size: 30px !important; }
+
+.fz35 { font-size: 35px !important; }
+
+.pp0 { padding: 0 !important; }
+
+.bb { border: 1px solid #000; }
+
+.bb--hide { border: none !important; }
+
+.hide-l { border-left: 0 !important; }
+
+.hide-r { border-right: 0 !important; }
+
+.hide-t { border-top: 0 !important; }
+
+.hide-b { border-bottom: 0 !important; }
+
+.show-l { border-left: 1px solid #000 !important; }
+
+.show-r { border-right: 1px solid #000 !important; }
+
+.show-t { border-top: 1px solid #000 !important; }
+
+.show-b { border-bottom: 1px solid #000 !important; }
+
+.container { max-width: 960px; margin: 0 auto; }
+
+.formHead__td { font-family: "Microsoft JhengHei", "arial"; padding: 12px 0; }
+
+.formHead__time { font-weight: bold; font-size: 16px; }
+
+.formTitle__td { font-family: "Microsoft JhengHei", "arial"; padding: 12px 0; }
+
+.formTitle__h1 { padding: 11px 0; font-size: 22px; font-weight: bold; }
+
+.formSide { padding: 0; width: 18px; }
+
+.formSide__li { line-height: 18px; text-align: left; margin-bottom: 15px; list-style: none; font-size: 18px; color: #000; font-weight: bold; }
+
+.formSide__span { display: block; margin-bottom: 12px; }
+
+.notice-tit { margin-top: 0; margin-bottom: 0; font-size: 16px; }
+
+.notice-ul { font-size: 15px; margin-bottom: 15px; }
+
+.notice-li { padding: 0 4px; }
+
+.mainT__td { font-family: "Microsoft JhengHei", "arial"; font-weight: bold; font-size: 14px; padding: 3px 4px; }
+
+.mainT__head__td { font-family: "Microsoft JhengHei", "arial"; padding: 3px 4px 12px; font-weight: bold; font-size: 15px; border-bottom: 1px solid #000; vertical-align: top; }
+
+.mainT__bodyH__td { font-family: "Microsoft JhengHei", "arial"; padding: 3px 4px; font-weight: bold; font-size: 14px; border-right: 1px solid #000; border-bottom: 1px solid #000; vertical-align: top; }
+
+.mainT__body__td { font-family: "Microsoft JhengHei", "arial"; padding: 12px 4px; font-weight: bold; font-size: 14px; border-right: 1px solid #000; border-bottom: 1px solid #000; vertical-align: top; }
+
+.mainT__ft__td { font-family: "Microsoft JhengHei", "arial"; padding: 6px 4px; font-weight: bold; font-size: 14px; vertical-align: top; }

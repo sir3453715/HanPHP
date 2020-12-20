@@ -1,0 +1,82 @@
+.login-bg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  background: url(../images/bg/002.jpg) center center no-repeat;
+  background-size: cover;
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
+.login {
+  margin-top: 40%;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.login .login-header {
+  margin-bottom: 10px;
+}
+.login .brand {
+  font-size: 22px;
+  color: #fff;
+}
+.login .brand small {
+  color: #fff;
+  font-size: 12px;
+  display: block;
+}
+.login .logo {
+  display: inline-block;
+  width: 80px;
+  height: 24px;
+  background: url(../images/logo/logo.png) 0 center no-repeat;
+  background-size: contain;
+}
+.login .login-content {
+  margin-bottom: 0;
+}
+.login .form-group {
+  margin-bottom: 10px;
+}
+.login .checkbox {
+  color: #fff;
+}
+.error404-bg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  background-color: #333;
+}
+.error404 {
+  margin-top: 20%;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.error404 .error404-header {
+  margin-bottom: 10px;
+}
+.error404 .error404-dec {
+  margin-bottom: 10px;
+  color: #fff;
+}
+.error404 .error404-title {
+  font-size: 42px;
+  color: #fff;
+}
+.error404 .error404-title small {
+  color: #fff;
+  font-size: 24px;
+  display: block;
+}
+.error404 .error404-content {
+  margin-bottom: 0;
+}
